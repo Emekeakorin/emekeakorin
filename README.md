@@ -22,5 +22,5 @@
 
 [twitter]: https://twitter.com/emekeakorin
 [youtube]: https://www.youtube.com/@godscovenantemeke498
-[instagram]: https://www.instagram.com/emekakorin/
+[instagram]: https://www.instagram.com/emekakorin
 [linkedin]: https://www.linkedin.com/in/emeke-godscovenant-535018a1
